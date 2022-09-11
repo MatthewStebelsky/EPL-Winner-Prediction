@@ -5,4 +5,4 @@ The web scraping part of my project makes use of python libraries such as pandas
 
 The machine learning part of my project uses the sklearn package with the RandomForestClassifier class (helps detect non-linearities in data). This part of the project also includes python library pandas and uses the method of rolling averages.
 
-This project is very simple, and i'm hoping to extend it to make it more complex and hopefully more accurate (current accuracy is about 55%
+This project is very simple, i'm going to extend it so it's more complex and more accurate (current accuracy is 56%).
